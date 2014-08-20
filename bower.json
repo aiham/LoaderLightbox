@@ -1,0 +1,21 @@
+{
+  "name": "LoaderLightbox",
+  "version": "0.0.0",
+  "homepage": "https://github.com/aiham/LoaderLightbox",
+  "authors": [
+    "Aiham Hammami <aiham@aiham.net>"
+  ],
+  "description": "Lightbox with loading bar",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.1"
+  }
+}
