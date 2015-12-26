@@ -4,7 +4,7 @@ LoaderLightbox is a simple lightbox with loading bar based on dynamic data
 
 ## Demo
 
-- http://aiham.nfshost.com/LoaderLightbox/
+- http://aiham.github.io/LoaderLightbox/
 
 ## Requirements
 
