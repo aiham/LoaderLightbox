@@ -1,3 +1,5 @@
+**Note:** Not maintained
+
 # LoaderLightbox
 
 LoaderLightbox is a simple lightbox with loading bar based on dynamic data
